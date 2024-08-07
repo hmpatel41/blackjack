@@ -1,0 +1,30 @@
+Game Session Started - 2024-08-06 16:32:47
+Game Results - 2024-08-06 16:33:58
+Bet Amount: 15
+You win!
+Your hand value: 16.
+Dealer's hand value: 23.
+You won 30 credits.
+Remaining Credits: 115
+
+Game Results - 2024-08-06 16:34:22
+Bet Amount: 10
+Bust! You lose.
+You lost 10 credits.
+Remaining Credits: 105
+
+Game Results - 2024-08-06 16:34:31
+Bet Amount: 25
+You win!
+You have a blackjack.
+You won 37.5 credits.
+Remaining Credits: 117.5
+
+Game Results - 2024-08-06 16:34:49
+Bet Amount: 20
+You win!
+Your hand value: 20.
+Dealer's hand value: 25.
+You won 40 credits.
+Remaining Credits: 137.5
+
