@@ -24,3 +24,7 @@ How to play the game:
 •	After the result is displayed, you can choose to continue playing by placing a new bet or quit the game.
 8.	Viewing Game Rules:
 •	Click the "Game Rules" button to view the rules of Blackjack at any time during the game.
+
+References:
+Source for cards images: https://code.google.com/archive/p/vector-playing-cards/downloads
+
