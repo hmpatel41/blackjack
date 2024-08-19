@@ -18,7 +18,7 @@ Rules have been integrated to the game. Rules will popup as soon as user
 run the game program and can be accessed anytime during the game using
 **Game rules** button integrated in the main window of the game.
 
-![output1](picture1_gamerules.png)
+![output1](picture_gamerules.png)
 
 **Main window:**
 
